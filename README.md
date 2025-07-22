@@ -7,6 +7,15 @@ An interactive Power BI dashboard built to analyze sales and inventory data from
 
 ---
 
+## 🧭 Objectives
+- Connect and profile raw data from multiple CSV files (`Sales`, `Products`, `Stores`, `Calendar`)
+- Clean and model data into a star schema
+- Create calculated columns and DAX measures for KPIs like Revenue and Profit
+- Build a date hierarchy and define relationships between fact and dimension tables
+- Design an interactive dashboard with slicers, KPIs, and charts to uncover sales trends and inventory insights
+
+---
+
 ### 📊 Key Insights
 
 * Sales, profit, and inventory data analyzed across multiple store locations
