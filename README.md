@@ -70,7 +70,8 @@ An interactive Power BI dashboard built to analyze sales and inventory data from
 ---
 
 ### 🖼️ Dashboard Preview
-![Toy Store KPI Dashboard Preview](./Dashboard_Screenshot.png)
+![Toy Store KPI Dashboard Preview](https://github.com/SahilChandrani/Toy-Store-KPI-Report/blob/main/Screenshot%20(14).png)
+![Toy Store KPI Dashboard Preview](https://github.com/SahilChandrani/Toy-Store-KPI-Report/blob/main/Screenshot%20(15).png)
 
 ---
 
