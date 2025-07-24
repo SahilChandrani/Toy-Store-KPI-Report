@@ -67,6 +67,10 @@ An interactive Power BI dashboard built to analyze sales and inventory data from
 * `ToyStore_KPI_Dashboard.pbix` – Power BI Report
 * `sales.csv`, `products.csv`, `stores.csv`, `calendar.csv` – Cleaned Datasets
 * `dashboard_preview.png` – Screenshot of Final Report
+---
+
+### 🖼️ Dashboard Preview
+![Toy Store KPI Dashboard Preview](./Dashboard_Screenshot.png)
 
 ---
 
